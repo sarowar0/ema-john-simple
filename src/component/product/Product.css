@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightblue;
+}
+.product-content{
+    padding: 0px 10px;
+}
+.product-content h5{
+    color: rgb(4, 4, 170);
+    font-size: 17px;
+    font-weight: 400;
+}
+.order-btn{
+    background-color: rgb(245, 209, 6);
+    font-size: 15px;
+    padding: 3px 20px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    cursor: pointer;
+}
